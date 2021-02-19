@@ -1,3 +1,17 @@
 {
-    "python.pythonPath": "c:\\Users\\Julian\\Downloads\\proe\\venv\\Scripts\\python.exe"
+  "java.configuration.updateBuildConfiguration": "automatic",
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "bin/": true,
+    "**/.classpath": true,
+    "**/.project": true,
+    "**/.settings": true,
+    "**/.factorypath": true,
+    "**/*~": true
+  },
+  "java.checkstyle.configuration": "${workspaceFolder}\\src\\main\\java\\frc\\robot\\google-checks.xml"
 }
